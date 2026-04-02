@@ -1,6 +1,6 @@
 # Hi, I'm Aaditya 👋
 
-📍 **Biratnagar ↔ Nepal** | 🤖 **Polyagentmorous builder** | 🚀 **Ex-RRN Founder**
+📍 **Biratnagar ↔ Nepal** | 🤖 **Polyagentmorous builder** | 🚀 **Ex-RRN Founder** || **Ex-InnoLab**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -80,11 +80,11 @@
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@steipete-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Aadityaaa___7)
+[![Twitter](https://img.shields.io/badge/-@aaditya-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Aadityaaa___7)
 <!-- [![Mastodon](https://img.shields.io/badge/-@steipete-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@steipete) -->
 <!-- [![Bluesky](https://img.shields.io/badge/-steipete.me-00A8E8?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/steipete.me)
 [![Blog](https://img.shields.io/badge/-steipete.me-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://steipete.me) -->
-[![LinkedIn](https://img.shields.io/badge/-Peter_Steinberger-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadityasah)
+[![LinkedIn](https://img.shields.io/badge/-Aadityasah-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-sah-516178308/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aadityakumarsah)
 
 ---
