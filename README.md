@@ -55,6 +55,7 @@
 - 👯 **[sathi](https://github.com/aadityakumarsah/Ai-Assistant-Chrome-Extension)** - Ai assistance chrome extension : By integrating your own API keys, you get full control over the output
 
 - 👾 **[Corsera](https://github.com/aadityakumarsah/ai-video-cource)** - Archived: AI Video cource generator
+- 🐷 100 + private projects
 
 
 ## GitHub Activity
