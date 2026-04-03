@@ -16,6 +16,7 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 > Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed. After 6+ years shipping web, modern web feels like a breath of fresh air.
+
 > I build with Nextjs, Fastapi, Java & TensorFlow -- shipped real projects, played around with 50+ ml models, 100+ SaaS (yeah some actually useful too) & build stuff that actually makes money (and maybe changes lives idk), if you need help securing, maintaining, making your startup
 HIRE ME
 
