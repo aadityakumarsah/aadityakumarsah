@@ -15,7 +15,7 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-> Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed. After 7+ years shipping web, modern web feels like a breath of fresh air.
+> Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed. After 6+ years shipping web, modern web feels like a breath of fresh air.
 
 
 ## Current Projects
@@ -104,5 +104,6 @@
 - Run 3-6 Claude instances concurrently
 - Powered by Vienna coffee culture
 - Gym enthusiast (when not coding)
+- Poojapaglu
 - Coaches LGBTQ+ folks at [Out In Tech]
 </details>
