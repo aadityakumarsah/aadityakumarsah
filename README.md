@@ -19,44 +19,26 @@
 
 
 ## Current Projects
-
 - 📈 **[NEPSE](https://github.com/aadityakumarsah/NEPSE)** - Full-stack financial intelligence platform that combines real-time web scraping, multi-source data aggregation, and Groq LLaMA AI to deliver actionable BUY / SELL / HOLD signals for every listed stock on the Nepal Stock Exchange.
-
 - 🐦 **[Mutation-X](https://github.com/aadityakumarsah/Mutate-Y)** - LLM that find mutation in DNA sequence has on 9.1 trillion paramater
-
 - 🎨 **[pingpanda](https://github.com/aadityakumarsah/pingpanda)** - SaaS Ping Panda is a real-time event monitoring service for SaaS businesses that allows developers to track critical user events and sales through instant, customizable notifications delivered directly to Discord
-
 - 📖 **[clario](https://github.com/aadityakumarsah/clario)** - Voice-first companion for reflection and emotional clarity.
-
 - 📊 **[interview-aiAgent](https://github.com/aadityakumarsah/interview-aiAgent)** - Vibe coded ai interview generator but did't work (Tradition coding is better)
-
-
 - 👀 **[doctor-appointmentmanagement](https://github.com/aadityakumarsah/doctor-appointmentmanagement)** - high-performance patient management application
-
 - 🥼 **[Vital](https://github.com/aadityakumarsah/Vital/blob/main/client/src/assets/images/Vital_System_Architecture.jpg)** - Full Fledge Heltcare MCP .py
-
 - 📺 **[Adagrade](https://github.com/aadityakumarsah/ads-gen)** - Locally Image generator Thumbnail generator .py
-
 ### Legacy Work
 - 🔄 **[SaaS](https://inolabs.netlify.app/)** - So called co-founder of InnoLabs
-
 - 🧑🏻‍💻 **[Cursor2.2](https://github.com/aadityakumarsah/cursor)** - Modern cursor with more feature
-
 - 🧿 **[Nepdate](https://github.com/aadityakumarsah/tinder)** - Tinder for nepal
-
+- 🥼 **[Auris](https://github.com/aadityakumarsah/auris-health)** - Gives therapists a fuller picture of how their patients are doing between sessions by pairing biometric signals with AI
 - 📋 **[iTasks](https://github.com/aadityakumarsah/-taskmanager-Day-14)** -Not like a boring taskmanager A no sign-up,integrates smart productivity frameworks like the Eisenhower Matrix to help users prioritize work efficiently
-
 - 🛏️ **[ArnikoTalks](https://github.com/aadityakumarsah/arnikotalks)** - Anonymous Social for my collage (time pass)
-
 - 📹 **[Clipcast MCP](https://github.com/aadityakumarsah/ClipCast-AI)** - Post your video and it will give generate a best part that you can post on youtube shorts for views 
-
 - 🐄 **[Krishi sadhan](https://github.com/aadityakumarsah/aggregation-platform)** - AI-Farmer equipments at reasonable price
-
 - 👯 **[sathi](https://github.com/aadityakumarsah/Ai-Assistant-Chrome-Extension)** - Ai assistance chrome extension : By integrating your own API keys, you get full control over the output
-
 - 👾 **[Corsera](https://github.com/aadityakumarsah/ai-video-cource)** - Archived: AI Video cource generator
 - 🐷 100 + private projects
-
 
 ## GitHub Activity
 
