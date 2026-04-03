@@ -34,7 +34,8 @@
 - 🥼 **[Auris](https://github.com/aadityakumarsah/auris-health)** - Gives therapists a fuller picture of how their patients are doing between sessions by pairing biometric signals with AI
 - 📋 **[iTasks](https://github.com/aadityakumarsah/-taskmanager-Day-14)** -Not like a boring taskmanager A no sign-up,integrates smart productivity frameworks like the Eisenhower Matrix to help users prioritize work efficiently
 - 🛏️ **[ArnikoTalks](https://github.com/aadityakumarsah/arnikotalks)** - Anonymous Social for my collage (time pass)
-- 📹 **[Clipcast MCP](https://github.com/aadityakumarsah/ClipCast-AI)** - Post your video and it will give generate a best part that you can post on youtube shorts for views 
+- 📹 **[Clipcast MCP](https://github.com/aadityakumarsah/ClipCast-AI)** - Post your video and it will give generate a best part that you can post on youtube shorts for views
+- 🚑 **[Raccident](https://github.com/aadityakumarsah/Raccdient)** - Click a photo and report it, it will automatically cal nearby police and ambulance without any hesitation
 - 🐄 **[Krishi sadhan](https://github.com/aadityakumarsah/aggregation-platform)** - AI-Farmer equipments at reasonable price
 - 👯 **[sathi](https://github.com/aadityakumarsah/Ai-Assistant-Chrome-Extension)** - Ai assistance chrome extension : By integrating your own API keys, you get full control over the output
 - 👾 **[Corsera](https://github.com/aadityakumarsah/ai-video-cource)** - Archived: AI Video cource generator
