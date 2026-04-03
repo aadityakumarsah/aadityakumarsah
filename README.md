@@ -15,10 +15,8 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-> Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed. After 6+ years shipping web, modern web feels like a breath of fresh air.
+> Deep in coding mode – building AI-powered tools at ludicrous speed. After 6+ years shipping web, modern web feels like a breath of fresh air.
 
-> I build with Nextjs, Fastapi, Java & TensorFlow -- shipped real projects, played around with 50+ ml models, 100+ SaaS (yeah some actually useful too) & build stuff that actually makes money (and maybe changes lives idk), if you need help securing, maintaining, making your startup
-HIRE ME
 
 ## Current Projects
 - 📈 **[NEPSE](https://github.com/aadityakumarsah/NEPSE)** - Full-stack financial intelligence platform that combines real-time web scraping, multi-source data aggregation, and Groq LLaMA AI to deliver actionable BUY / SELL / HOLD signals for every listed stock on the Nepal Stock Exchange.
