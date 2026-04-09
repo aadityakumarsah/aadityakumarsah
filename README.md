@@ -26,6 +26,7 @@
 - 📖 **[clario](https://github.com/aadityakumarsah/clario)** - Voice-first companion for reflection and emotional clarity.
 - 📊 **[interview-aiAgent](https://github.com/aadityakumarsah/interview-aiAgent)** - Vibe coded ai interview generator but did't work (Tradition coding is better)
 - 👀 **[doctor-appointmentmanagement](https://github.com/aadityakumarsah/doctor-appointmentmanagement)** - high-performance patient management application
+- 🕵🏻‍♂️ **[JobX](https://github.com/aadityakumarsah/getyourjobinx)** - Real-time Hiring Insights from X.com
 - 🥼 **[Vital](https://github.com/aadityakumarsah/Vital/blob/main/client/src/assets/images/Vital_System_Architecture.jpg)** - Full Fledge Heltcare MCP .py
 - 📺 **[Adagrade](https://github.com/aadityakumarsah/ads-gen)** - Locally Image generator Thumbnail generator .py
 ### Legacy Work
