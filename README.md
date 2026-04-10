@@ -24,7 +24,7 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-> Deep in coding mode – building AI-powered tools at ludicrous speed. After 6+ years shipping web, modern web feels like a breath of fresh air.
+> Deep in coding mode – building AI-powered tools at ludicrous speed. After 6+ years shipping web, modern web feels like a breath of fresh air. currently contributing in CyberSecurity🦇
 
 
 ## Current Projects
