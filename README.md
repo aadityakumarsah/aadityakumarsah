@@ -20,6 +20,7 @@
 
 ## Current Projects
 - 📈 **[NEPSE](https://github.com/aadityakumarsah/NEPSE)** - Full-stack financial intelligence platform that combines real-time web scraping, multi-source data aggregation, and Groq LLaMA AI to deliver actionable BUY / SELL / HOLD signals for every listed stock on the Nepal Stock Exchange.
+- **[BackstageCommercials](https://github.com/aadityakumarsah/backstage_commercials)** BackstageCommercials turns background decor into personalized, shoppable reality by seamlessly embedding AI-generated products directly into your favorite scenes.
 - 𐏈 **[AuraAtlas](https://github.com/aadityakumarsah/auraAtlas)** - real-time collective mental wellness platform built for college students.
 - 🐦 **[Mutation-X](https://github.com/aadityakumarsah/Mutate-Y)** - LLM that find mutation in DNA sequence has on 9.1 trillion paramater
 - 🎨 **[pingpanda](https://github.com/aadityakumarsah/pingpanda)** - SaaS Ping Panda is a real-time event monitoring service for SaaS businesses that allows developers to track critical user events and sales through instant, customizable notifications delivered directly to Discord
