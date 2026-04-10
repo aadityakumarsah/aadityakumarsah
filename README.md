@@ -24,6 +24,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Pentesting](https://img.shields.io/badge/-Pentesting-000000?style=flat-square&logo=kalilinux&logoColor=white)
 ![XSS](https://img.shields.io/badge/-XSS-FF0000?style=flat-square&logo=hackthebox&logoColor=white)
+![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 
 
 > Deep in coding mode – building AI-powered tools at ludicrous speed. After 6+ years shipping web, modern web feels like a breath of fresh air. currently contributing in CyberSecurity🦇
