@@ -80,19 +80,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-  ![Aaditya's GitHub stats](https://aadityasah.vercel.app/api?username=aadityakumarsah&show_icons=true&theme=dark&hide_border=true&count_private=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityakumarsah&layout=compact&theme=dark&hide_border=true)
-  
-</div>
-
----
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@aaditya-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Aadityaaa___7)
