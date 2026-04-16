@@ -86,7 +86,7 @@
 
 <div align="center">
   
-  ![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadityakumarsah&show_icons=true&theme=dark&hide_border=true&count_private=true)
+  ![Aaditya's GitHub stats](https://aadityasah.vercel.app/api?username=aadityakumarsah&show_icons=true&theme=dark&hide_border=true&count_private=true)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityakumarsah&layout=compact&theme=dark&hide_border=true)
   
