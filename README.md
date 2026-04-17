@@ -48,6 +48,7 @@
 ## 🧪 Other Builds
 
 - 🧬 **[Mutation-X](https://github.com/aadityakumarsah/Mutate-Y)** — LLM-based DNA sequence mutation detector
+- 🛡️ **[ScamShield](https://github.com/aadityakumarsah/eSewaXWWF)** — Nepal's first gamified scam-immunity platform. 15 hyper-realistic scenarios teach users to spot SMS, QR, and social-engineering scams before they happen. Bilingual (EN/नेपाली), mobile-first PWA. **Built for eSewa × WWF Hackathon 2026**.
 - 🎨 **[Adagrade](https://github.com/aadityakumarsah/ads-gen)** — Local image & thumbnail generator
 - 🖱️ **[Cursor 2.2](https://github.com/aadityakumarsah/cursor)** — Modern cursor with extended features
 - ❤️ **[Nepdate](https://github.com/aadityakumarsah/tinder)** — Dating app concept for Nepal
