@@ -35,6 +35,8 @@
 
 - 📖 **[Clario](https://github.com/aadityakumarsah/clario)** — Voice-first companion for reflection and emotional clarity.
 
+- **[WebLy](https://github.com/aadityakumarsah/Webly)** AI Website Builder Transform ideas into reality with natural language. Describe what you want, and watch AI generate a complete, modern website in seconds.
+
 - 🩺 **[Vital](https://github.com/aadityakumarsah/Vital)** — Full-fledged healthcare MCP server.
 
 - 🏥 **[Doctor Appointment Management](https://github.com/aadityakumarsah/doctor-appointmentmanagement)** — High-performance patient management application.
