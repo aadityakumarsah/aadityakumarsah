@@ -32,6 +32,8 @@
 - 🧠 **[AuraAtlas](https://github.com/aadityakumarsah/auraAtlas)** — Real-time collective mental wellness platform built for college students.
 
 - 🐼 **[PingPanda](https://github.com/aadityakumarsah/pingpanda)** — SaaS for real-time event monitoring. Tracks critical user events and sales through instant, customizable Discord notifications.
+  
+- 🐼 **[Botanic Defenders](https://github.com/aadityakumarsah/botanic-defenders)** — AI-powered agricultural insights, plant disease detection system, Flood predection, Crop recommendation by predecting future weather.
 
 - 📖 **[Clario](https://github.com/aadityakumarsah/clario)** — Voice-first companion for reflection and emotional clarity.
 
