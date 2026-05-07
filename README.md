@@ -22,29 +22,18 @@
 ---
 
 ## 🔥 Featured Projects
-
+- 🚀 **[OpenRouter](https://github.com/aadityakumarsah/openrouter)** - High-performance scalable monorepo architecture for modern web applications. Built for speed, developer experience, and production scalability.
 - 📈 **[NEPSE](https://github.com/aadityakumarsah/NEPSE)** — Full-stack financial intelligence platform combining real-time web scraping, multi-source data aggregation, and Groq LLaMA to deliver BUY/SELL/HOLD signals for the Nepal Stock Exchange.
-
 - 👁️ **[Sixth Sense](https://github.com/aadityakumarsah/Sixth-Sense)** — AI-powered real-time vision assistance for the visually impaired. Kayla, an AI avatar, narrates surroundings and guides users through voice commands. **🏆 Winner, DartHacks 2026**
-
 - 🎭 **[BackstageCommercials](https://github.com/aadityakumarsah/backstage_commercials)** — Turns background decor into personalized, shoppable reality by embedding AI-generated products directly into video scenes.
-
 - 🧠 **[AuraAtlas](https://github.com/aadityakumarsah/auraAtlas)** — Real-time collective mental wellness platform built for college students.
-
 - 🐼 **[PingPanda](https://github.com/aadityakumarsah/pingpanda)** — SaaS for real-time event monitoring. Tracks critical user events and sales through instant, customizable Discord notifications.
-  
 - 🌸 **[Botanic Defenders](https://github.com/aadityakumarsah/botanic-defenders)** — AI-powered agricultural insights, plant disease detection system, Flood predection, Crop recommendation by predecting future weather.
-
 - 📖 **[Clario](https://github.com/aadityakumarsah/clario)** — Voice-first companion for reflection and emotional clarity.
-
 - **[WebLy](https://github.com/aadityakumarsah/Webly)** AI Website Builder Transform ideas into reality with natural language. Describe what you want, and watch AI generate a complete, modern website in seconds.
-
 - 🩺 **[Vital](https://github.com/aadityakumarsah/Vital)** — Full-fledged healthcare MCP server.
-
 - 🏥 **[Doctor Appointment Management](https://github.com/aadityakumarsah/doctor-appointmentmanagement)** — High-performance patient management application.
-
 - 🕵️ **[JobX](https://github.com/aadityakumarsah/getyourjobinx)** — Real-time hiring insights scraped from X.com.
-
 ---
 
 ## 🧪 Other Builds
