@@ -30,6 +30,7 @@
 - 🐼 **[PingPanda](https://github.com/aadityakumarsah/pingpanda)** — SaaS for real-time event monitoring. Tracks critical user events and sales through instant, customizable Discord notifications.
 - 🌸 **[Botanic Defenders](https://github.com/aadityakumarsah/botanic-defenders)** — AI-powered agricultural insights, plant disease detection system, Flood predection, Crop recommendation by predecting future weather.
 - 📖 **[Clario](https://github.com/aadityakumarsah/clario)** — Voice-first companion for reflection and emotional clarity.
+- ❤️ **[incoginotopro](https://github.com/aadityakumarsah/incoginotopro)** - omegle2.0 where you can talk with stranger. works in every corner of this earth.
 - **[WebLy](https://github.com/aadityakumarsah/Webly)** AI Website Builder Transform ideas into reality with natural language. Describe what you want, and watch AI generate a complete, modern website in seconds.
 - 🩺 **[Vital](https://github.com/aadityakumarsah/Vital)** — Full-fledged healthcare MCP server.
 - 🏥 **[Doctor Appointment Management](https://github.com/aadityakumarsah/doctor-appointmentmanagement)** — High-performance patient management application.
