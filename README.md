@@ -19,6 +19,10 @@
 
 > Building AI-powered products at ludicrous speed. Currently shipping LLM features into production at Delta IT Solutions. Available for freelance and contract work.
 
+10,000+ contrubution in 2026
+5,000+ contrubution in 2025
+4,500+ contributions in 2024
+8,499 contributions in 2022
 ---
 
 ## 🔥 Featured Projects
@@ -58,9 +62,10 @@
 
 ## 💼 Experience
 
-- **Full-Stack Engineer** @ Delta IT Solutions — shipping AI-powered features in production
-- **Developer** @ RRN & Golcha Group — building and maintaining internal tooling
+- **Full-Stack Engineer** @ Delta IT Solutions — shipping AI-powered features in production, worked with building different API
+- **Developer** @ RRN  — building and maintaining internal tooling
 - **Co-founder** @ InnoLabs *(previous)* — early-stage SaaS work
+- **founder** @ Yes Sir *(currently)* — early-stage SaaS work
 
 ---
 
