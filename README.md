@@ -18,11 +18,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 > Building AI-powered products at ludicrous speed. Currently shipping LLM features into production at Delta IT Solutions. Available for freelance and contract work.
-
-10,000+ contrubution in 2026
-5,000+ contrubution in 2025
-4,500+ contributions in 2024
-8,499 contributions in 2022
 ---
 
 ## 🔥 Featured Projects
