@@ -2,25 +2,36 @@
 
 📍 **Biratnagar, Nepal** | 🛠️ **Full-Stack + AI Engineer** | 🚀 **Shipping production apps**
 
+![System Design](https://img.shields.io/badge/-System%20Design-1E293B?style=flat-square&logo=diagramsdotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-> Building AI-powered products at ludicrous speed. Currently shipping LLM features into production at Delta IT Solutions. Available for freelance and contract work.
+![Microservices](https://img.shields.io/badge/-Microservices-0F172A?style=flat-square&logo=icloud&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST_API-005571?style=flat-square)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+> Building AI-powered products at ludicrous speed. Currently shipping LLM features into production at @aiclario. Available for freelance and Full time work
 ---
 
 ## 🔥 Featured Projects
+- 💕 **[Echo no contact ](https://github.com/aadityakumarsah/echo-app)** - Echo is a breakup recovery companion built around a research-informed 90-day healing program
 - 🚀 **[OpenRouter](https://github.com/aadityakumarsah/openrouter)** - High-performance scalable monorepo architecture for modern web applications. Built for speed, developer experience, and production scalability.
 - 📈 **[NEPSE](https://github.com/aadityakumarsah/NEPSE)** — Full-stack financial intelligence platform combining real-time web scraping, multi-source data aggregation, and Groq LLaMA to deliver BUY/SELL/HOLD signals for the Nepal Stock Exchange.
 - 👁️ **[Sixth Sense](https://github.com/aadityakumarsah/Sixth-Sense)** — AI-powered real-time vision assistance for the visually impaired. Kayla, an AI avatar, narrates surroundings and guides users through voice commands. **🏆 Winner, DartHacks 2026**
