@@ -29,6 +29,7 @@
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 > Building AI-powered products at ludicrous speed. Currently shipping LLM features into production at @aiclario. Available for freelance and Full time work
+> spend 80% of my time reading, refactoring, and fixing old code written by someone else, ensuring it doesn't break a system making millions of dollars
 ---
 
 ## 🔥 Featured Projects
@@ -75,6 +76,6 @@
 
 ---
 
-> **"Ship beats perfect."** I build tools to solve real problems, then share them. Currently exploring how AI reshapes software development.
+> **"Ship beats perfect."** I build tools to solve real problems, then share them. Currently exploring how AI reshapes software development. lived with my own code for more than six months
 
 **Open to freelance projects & contract roles** → [aadityasah.netlify.app](https://aadityasah.netlify.app)
