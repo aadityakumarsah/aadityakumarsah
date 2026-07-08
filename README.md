@@ -3,6 +3,7 @@
 📍 **Biratnagar, Nepal** | 🛠️ **Full-Stack + AI Engineer** | 🚀 **Shipping production apps**
 
 ![System Design](https://img.shields.io/badge/-System%20Design-1E293B?style=flat-square&logo=diagramsdotnet&logoColor=white)
+![Low-Level Design](https://img.shields.io/badge/-Low--Level%20Design-334155?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -21,6 +22,11 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Microservices](https://img.shields.io/badge/-Microservices-0F172A?style=flat-square&logo=icloud&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST_API-005571?style=flat-square)
+![Distributed Systems](https://img.shields.io/badge/-Distributed%20Systems-4B5563?style=flat-square)
+![Data Structures & Algorithms](https://img.shields.io/badge/-DSA-0F766E?style=flat-square)
+![Concurrency](https://img.shields.io/badge/-Concurrency-7C3AED?style=flat-square)
+![Database Design](https://img.shields.io/badge/-Database%20Design-2563EB?style=flat-square)
+![Production Debugging](https://img.shields.io/badge/-Production%20Debugging-DC2626?style=flat-square)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 > Building AI-powered products at ludicrous speed. Currently shipping LLM features into production at @aiclario. Available for freelance and Full time work
