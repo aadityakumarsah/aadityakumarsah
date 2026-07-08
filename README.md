@@ -49,8 +49,6 @@
 - 🖱️ **[Cursor 2.2](https://github.com/aadityakumarsah/cursor)** — Modern cursor with extended features
 - 📹 **[ClipCast MCP](https://github.com/aadityakumarsah/ClipCast-AI)** — Extracts best moments from videos for YouTube Shorts
 
-*And 100+ private projects.*
-
 ---
 
 ## 💼 Experience
