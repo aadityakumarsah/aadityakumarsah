@@ -35,7 +35,7 @@
 ## 🔥 Featured Projects
 - 💕 **[Echo no contact ](https://github.com/aadityakumarsah/echo-app)** - Echo is a breakup recovery companion built around a research-informed 90-day healing program
 - 🚀 **[ExoSeer](https://github.com/aadityakumarsah/ISRO)** -Point it at a star. It watches the star's brightness flicker over months of real NASA data, catches the faint, regular dimming of a planet crossing in front, and then does the hard part: vets the signal — deciding whether it is a planet, a pair of eclipsing stars, stellar variability, or noise — and explains its verdict in plain language a human can check.
-- 📚 **[dn SMS](school management system used in commercial use)** - end to end microservice school management system used in commercial for managing schools data
+- 📚 **[dn SMS](https://github.com/aadityakumarsah/dn-sms)** - end to end microservice school management system used in commercial for managing schools data
 - ⛓️‍💥 **[OpenRouter](https://github.com/aadityakumarsah/openrouter)** - High-performance scalable monorepo architecture for modern web applications. Built for speed, developer experience, and production scalability.
 - 👁️ **[Sixth Sense](https://github.com/aadityakumarsah/Sixth-Sense)** — AI-powered real-time vision assistance for the visually impaired. Kayla, an AI avatar, narrates surroundings and guides users through voice commands. **🏆 Winner, DartHacks 2026**
 - 🎭 **[BackstageCommercials](https://github.com/aadityakumarsah/backstage_commercials)** — Turns background decor into personalized, shoppable reality by embedding AI-generated products directly into video scenes.
