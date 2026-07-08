@@ -28,8 +28,8 @@
 ![Production Debugging](https://img.shields.io/badge/-Production%20Debugging-DC2626?style=flat-square)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-> Building AI-powered products at ludicrous speed. Currently shipping LLM features into production at @aiclario. Available for freelance and Full time work
-> spend 80% of my time reading, refactoring, and fixing old code written by someone else, ensuring it doesn't break a system making millions of dollars
+> Building AI-powered products at ludicrous speed. Currently shipping LLM features into production at @aiclario. Available for freelance and Full time work.
+> I spend 80% of my time reading, refactoring, and fixing old code written by someone else, ensuring it doesn't break a system making millions of dollars
 ---
 
 ## 🔥 Featured Projects
