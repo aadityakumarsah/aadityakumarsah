@@ -1,6 +1,6 @@
 # Hi, I'm Aaditya 👋
 
-📍 **Biratnagar, Nepal** | 🛠️ **Full-Stack + AI Engineer** | 🚀 **Shipping production apps**
+📍 **Biratnagar, Nepal** | 🛠️ **Full-Stack + AI Engineer** | 🚀 **Scaling Safely production apps**
 
 ![System Design](https://img.shields.io/badge/-System%20Design-1E293B?style=flat-square&logo=diagramsdotnet&logoColor=white)
 ![Low-Level Design](https://img.shields.io/badge/-Low--Level%20Design-334155?style=flat-square)
@@ -28,7 +28,7 @@
 ![Production Debugging](https://img.shields.io/badge/-Production%20Debugging-DC2626?style=flat-square)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-> Building AI-powered products at ludicrous speed. Currently shipping LLM features into production at @aiclario. Available for freelance and Full time work.
+> Building AI-powered products at ludicrous speed. Currently Scaling LLM features into production at @aiclario. Available for freelance and Full time work.
 > I spend 80% of my time reading, refactoring, and fixing old code written by someone else, ensuring it doesn't break a system making millions of dollars
 ---
 
@@ -53,7 +53,7 @@
 
 ## 💼 Experience
 
-- **Full-Stack Engineer** @ Delta — shipping AI-powered features in production, worked with building different API
+- **Full-Stack Engineer** @ Delta — Scaling Safely AI-powered features in production, worked with building different API
 - **SDE II** @ Echo no contact  — building and maintaining internal tooling
 - **SDE I** @aiclario — Mental app
 
