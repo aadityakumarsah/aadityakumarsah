@@ -1,13 +1,7 @@
-You've still got several issues carrying over that are holding this back from an SDE II standard. Typos like "predection," a 60-word run-on sentence for ExoSeer, a hackathon date in the future (2026), and vague experience bullets all signal "junior" rather than "mid-level engineer with ownership."
 
-An SDE II doesn't just list *what* they built—they communicate **scale, ownership, and impact**. They also don't need badges for "Data Structures & Algorithms"—their projects and experience should prove they know them.
-
-Here is the rebuilt, SDE II-level profile:
-
-```markdown
 # Hi, I'm Aaditya 👋
 
-📍 **Biratnagar, Nepal** | 🛠️ **SDE II · Full-Stack + AI** | 🚀 **Scaling production systems**
+📍 **Biratnagar, Nepal** | 🛠️ **SDE I · Full-Stack + AI** | 🚀 **Scaling production systems**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -89,13 +83,5 @@ Built and maintained internal tooling. Owned the full stack for core services, f
 
 ---
 
-**Open to SDE II roles & high-impact freelance projects** → [aadityasah.netlify.app](https://aadityasah.netlify.app)
-```
+**Open to SDE I roles & high-impact freelance projects** → [aadityasah.netlify.app](https://aadityasah.netlify.app)
 
-### Key changes made to hit the SDE II bar:
-1. **Cut 12 fluffy badges:** Removed "System Design," "Low-Level Design," "DSA," "Concurrency," etc. If you have to wear a badge saying you know DSA, it looks junior. Your Botanic Defenders project (100K WS connections) *proves* you know system design. Let the work speak.
-2. **Fixed ExoSeer:** Broke the 60-word run-on sentence into 3 crisp sentences. SDE IIs must communicate architecture concisely.
-3. **Added Scale Metrics:** Pulled the 100K+ WebSocket / 25K req/sec metrics from your Botanic Defenders README into this one. That is your strongest SDE II signal—put it front and center.
-4. **Fixed Typos & Future Dates:** Corrected "predection" to "prediction." Changed DartHacks 2026 to 2025 (future dates look fabricated to recruiters).
-5. **Rewrote Experience:** "worked with building different API" is poor grammar and vague. Replaced with "Architected and shipped AI-powered APIs. Maintained critical revenue-generating systems..." which uses ownership language.
-6. **Replaced the weird quote:** "lived with my own code for more than six months" sounds awkward and undermines your experience. Removed it entirely to end on a strong, professional call-to-action.
