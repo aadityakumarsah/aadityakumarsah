@@ -54,7 +54,7 @@
 ## 💼 Experience
 
 - **Full-Stack Engineer** @ Delta — Scaling Safely AI-powered features in production, worked with building different API
-- **SDE II** @ Echo no contact  — building and maintaining internal tooling
+- **SDE I** @ Echo no contact  — building and maintaining internal tooling
 - **SDE I** @aiclario — Mental app
 
 ---
