@@ -37,11 +37,9 @@
 - 🚀 **[ExoSeer](https://github.com/aadityakumarsah/ISRO)** -Point it at a star. It watches the star's brightness flicker over months of real NASA data, catches the faint, regular dimming of a planet crossing in front, and then does the hard part: vets the signal — deciding whether it is a planet, a pair of eclipsing stars, stellar variability, or noise — and explains its verdict in plain language a human can check.
 - 📚 **[dn SMS](https://github.com/aadityakumarsah/dn-sms)** - end to end microservice school management system used in commercial for managing schools data
 - ⛓️‍💥 **[OpenRouter](https://github.com/aadityakumarsah/openrouter)** - High-performance scalable monorepo architecture for modern web applications. Built for speed, developer experience, and production scalability.
-- 👁️ **[Sixth Sense](https://github.com/aadityakumarsah/Sixth-Sense)** — AI-powered real-time vision assistance for the visually impaired. Kayla, an AI avatar, narrates surroundings and guides users through voice commands. **🏆 Winner, DartHacks 2026**
 - 🎭 **[BackstageCommercials](https://github.com/aadityakumarsah/backstage_commercials)** — Turns background decor into personalized, shoppable reality by embedding AI-generated products directly into video scenes.
 - 🧠 **[AuraAtlas](https://github.com/aadityakumarsah/auraAtlas)** — Real-time collective mental wellness platform built for college students.
-- 🐼 **[PingPanda](https://github.com/aadityakumarsah/pingpanda)** — SaaS for real-time event monitoring. Tracks critical user events and sales through instant, customizable Discord notifications.
-- 🌸 **[Botanic Defenders](https://github.com/aadityakumarsah/botanic-defenders)** — AI-powered agricultural insights, plant disease detection system, Flood predection, Crop recommendation by predecting future weather.
+
 
 ## 🧪 Other Builds
 
