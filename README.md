@@ -75,5 +75,6 @@
 > **"Ship beats perfect."** I build tools to solve real problems, then share them. Currently exploring how AI reshapes software development. lived with my own code for more than six months
 
 **Open to freelance projects & contract roles** → [aadityasah.netlify.app](https://aadityasah.netlify.app)
+---
 ![Profile views](https://komarev.com/ghpvc/?username=aadityakumarsah)
 
