@@ -1,6 +1,6 @@
 # Hi, I'm Aaditya 👋
 
-📍 **Biratnagar, Nepal** | 🛠️ **Full-Stack + AI Engineer** | 🚀 **Scaling Safely production apps**
+📍 **Biratnagar, Nepal** | 🛠️ **Full-Stack + Applied AI Engineer** | 🚀 **Scaling Safely production apps**
 
 ![System Design](https://img.shields.io/badge/-System%20Design-1E293B?style=flat-square&logo=diagramsdotnet&logoColor=white)
 ![Low-Level Design](https://img.shields.io/badge/-Low--Level%20Design-334155?style=flat-square)
@@ -28,53 +28,20 @@
 ![Production Debugging](https://img.shields.io/badge/-Production%20Debugging-DC2626?style=flat-square)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-> Building AI-powered products at ludicrous speed. Currently Scaling LLM features into production at @aiclario. Available for freelance and Full time work.
-> I spend 80% of my time reading, refactoring, and fixing old code written by someone else, ensuring it doesn't break a system making millions of dollars
----
-
-## 🔥 Featured Projects
-- 💕 **[Echo no contact ](https://github.com/aadityakumarsah/echo-app)** - Echo is a breakup recovery companion built around a research-informed 90-day healing program
-- 🚀 **[ExoSeer](https://github.com/aadityakumarsah/ISRO)** -Point it at a star. It watches the star's brightness flicker over months of real NASA data, catches the faint, regular dimming of a planet crossing in front, and then does the hard part: vets the signal — deciding whether it is a planet, a pair of eclipsing stars, stellar variability, or noise — and explains its verdict in plain language a human can check.
-- 📚 **[dn SMS](https://github.com/aadityakumarsah/dn-sms)** - end to end microservice school management system used in commercial for managing schools data
-- ⛓️‍💥 **[OpenRouter](https://github.com/aadityakumarsah/openrouter)** - High-performance scalable monorepo architecture for modern web applications. Built for speed, developer experience, and production scalability.
-- 🎭 **[BackstageCommercials](https://github.com/aadityakumarsah/backstage_commercials)** — Turns background decor into personalized, shoppable reality by embedding AI-generated products directly into video scenes.
-- 🧠 **[AuraAtlas](https://github.com/aadityakumarsah/auraAtlas)** — Real-time collective mental wellness platform built for college students.
-
-
-## 🧪 Other Builds
-
-- 🧬 **[Mutation-X](https://github.com/aadityakumarsah/Mutate-Y)** — LLM-based DNA sequence mutation detector
-- 🖱️ **[Cursor 2.2](https://github.com/aadityakumarsah/cursor)** — Modern cursor with extended features
-- 📹 **[ClipCast MCP](https://github.com/aadityakumarsah/ClipCast-AI)** — Extracts best moments from videos for YouTube Shorts
-
----
 
 ## 💼 Experience
-
-- **Full-Stack Engineer** @ Delta — Scaling Safely AI-powered features in production, worked with building different API
-- **SDE I** @ Echo no contact  — building and maintaining internal tooling
-- **SDE I** @aiclario — Mental app
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/aadityakumarsah)
+- **OSS dev** @shipd (YCW23)
+- **SDE I** @ Delta 
+- **SDE I** @ Echo no contact
 
 ---
 
 ## 🤝 Connect
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=netlify&logoColor=white)](https://aadityasah.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-sah-516178308/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Aadityaaa___7)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]
+[![X](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Aadityaaa___7)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aadityakumarsah)
 
----
-
-> **"Ship beats perfect."** I build tools to solve real problems, then share them. Currently exploring how AI reshapes software development. lived with my own code for more than six months
-
-**Open to freelance projects & contract roles** → [aadityasah.netlify.app](https://aadityasah.netlify.app)
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=aadityakumarsah)
 
