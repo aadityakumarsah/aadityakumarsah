@@ -23,9 +23,9 @@
 
 
 ## 💼 Experience
-- **OSS dev** @shipd (YCW23)
-- **SDE I** @ Delta 
-- **SDE I** @ Echo no contact
+- **Benchmark dev** @shipd (YCW23)
+- **Full stack engineer** @Echo no contact
+- **OSS** @modelence (YCS25)
 
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=steipete)
